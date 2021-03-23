@@ -4,6 +4,7 @@ module.exports = {
 			test: /\.md$/,
 			loader: 'frontmatter-markdown-loader',
 			options: { mode: ['react-component'] },
+			target: 'serverless',
 		})
 		return cfg
 	},
