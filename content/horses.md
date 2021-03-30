@@ -4,7 +4,7 @@ date: 2021-02-22T23:31:20:551Z
 horses:
   - name: Excepzional
     description: Excepzional a grey Polish-Crabbet Arabian stallion and an experienced competitor.
-    character: Intelligent, opinionated, FAST. Likes to win.
+    character: Intelligent, opinionated, FAST. Wants to win.
   - name: Chanz
     description: Chanz is a chestnut colored Arabian out of the Rushcreek line.
     character: Great sense of humor, curious, removes bucket lids, easily spooked, challenge to stay in saddle.
