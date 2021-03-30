@@ -13,9 +13,6 @@ horses:
   - name: Aris
     description: Aris is a grey Arabian and half brother to Chanz.
     character: Earnest, cautious. Hell of a bucking horse (unfortunately!).
-  - name: Moonshot
-    description: BLM mustang.
-    character: Tough, go anywhere.
 ---
 
 This is the profile page for some of my horses.
