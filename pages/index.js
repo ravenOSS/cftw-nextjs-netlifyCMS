@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import { attributes, react as HorseContent } from '../content/horses.md'
-import Date from '../utilities/date'
+// import Date from '../utilities/date'
 export default function Home() {
 	let { title, date, horses } = attributes
 
@@ -18,7 +18,6 @@ export default function Home() {
 				<h1>{title}</h1>
 				{/* <p>{Date({ date })}</p> */}
 				<p>{date}</p>
-				<p>Date()</p>
 
 				<HorseContent />
 				<ul>
