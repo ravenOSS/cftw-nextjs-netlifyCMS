@@ -7,7 +7,7 @@ export default function Home() {
 	return (
 		<>
 			<Head>
-				<script src='https://identity.netlify.com/v1/netlify-identity-widget.js'></script>
+				{/* <script src='https://identity.netlify.com/v1/netlify-identity-widget.js'></script> */}
 				<link
 					rel='stylesheet'
 					href='https://fonts.googleapis.com/css?family=Inter'

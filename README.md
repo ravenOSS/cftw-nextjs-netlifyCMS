@@ -1,6 +1,8 @@
 A demo project for the Denver, Colorado Meetup Group "Coding for the Web".
 Building a personal blog with Next.js and Netlify-CMS.
 
+## Nextjs Overview.pdf contains instructions on how to build out our initial project.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
