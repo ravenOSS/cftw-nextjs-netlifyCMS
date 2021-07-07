@@ -19,6 +19,9 @@ horses:
   - name: Moonshot
     description: 4 y/o BLM Mustang
     character: Tough, go anywhere.
+  - name: Companero
+    description: 25 year old bay colored Paso Fino
+    character: Energetic, smooth ride
 ---
 
 This is the profile page for some of my horses.
